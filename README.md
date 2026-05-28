@@ -46,7 +46,3 @@ Only the feature-selected datasets are provided in this repository. The datasets
 ## Data availability statement
 
 The feature-selected datasets used in this study are available in this repository.
-
-## Contact
-
-For questions regarding the datasets, please contact the corresponding author of the manuscript.
